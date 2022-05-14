@@ -1,4 +1,4 @@
-# NBA-Stats-Visualization
+# HeatCheck
 Deployed web app is live at https://nba-stats-visualization.herokuapp.com/
 
 Built using:
