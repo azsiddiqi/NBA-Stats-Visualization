@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import base64
 
-st.title('NBA Player Stats Visualization')
+st.title('HeatCheck')
 st.markdown("""
 This app scrapes NBA player stats from basketball-reference.com and creates a heatmap showing the correlation between different player ststistics.
 * **Python Libraries:** streamlit, pandas, numpy, matplotlib, seaborn
